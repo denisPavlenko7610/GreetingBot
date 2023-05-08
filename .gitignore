@@ -12,6 +12,7 @@ __pycache__/
 # Distribution / packaging
 dist/
 build/
+project_env/
 *.egg-info/
 
 # Virtual environments
