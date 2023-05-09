@@ -13,7 +13,7 @@ import os
 import datetime
 from datetime import timedelta
 PORT = int(os.environ.get('PORT', 5000))
-TOKEN = '5067045905:AAGlU49fTtkU8HG44zir3zcMjagzqMUl8Wo'
+TOKEN = '5067045905:AAGlU49fTtkU8HG44zir3zcMjagzqMUl8Wo-'
 import logging
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 lib = ctypes.windll.kernel32
